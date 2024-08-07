@@ -466,7 +466,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "TMS2V.dsn",
       "step": "",
       "vrml": ""
     },
